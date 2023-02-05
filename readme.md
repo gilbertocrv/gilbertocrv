@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail: **gilbertocrv@hotmail.com**
 
-- 📄 Segue meu Perfil do Linkedin [https://www.linkedin.com/in/gilberto-filho-4430a3184/](https://www.linkedin.com/in/gilberto-filho-4430a3184/)
+- 📄 Segue meu Perfil do Linkedin [https://www.linkedin.com/in/gilberto-filho-4430a3184/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
