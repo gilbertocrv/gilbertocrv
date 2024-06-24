@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Gilberto Gonçalves</h1>
-<h3 align="center">Estudante de Ciências de Dados nas mais diversas áreas</h3>
+<h3 align="center">Estudante de Tecnologia da Informação</h3>
 
 - 🌱 Atualmente estou estudando **Python, Machine Learning, R,**
 
-- 💬 Me pergunte sobre: **SQL, Python, Google Data Studio, Power Bi, Excel, VBA, Macros,**
+- 💬 Me pergunte sobre: **SQL, Python, Google Data Studio, Power Bi, Excel, VBA, Macros, Java, C#**
 
 - 📫 Você me acha através do e-mail: **gilbertocrv@hotmail.com**
 
