@@ -1,17 +1,39 @@
-<h1 align="center">Oi 👋, Eu sou Gilberto Gonçalves</h1> <h3 align="center">Analista de Governança de Identidades | TI e Automação de Processos</h3>
+<h1 align="center">Oi, Eu sou Gilberto Gonçalves</h1>
+<h3 align="center">Analista de Governança de Identidades | IAM & Automação</h3>
 
-🌱 Cursando Pós-graduação em Governança e Auditoria de TI (Instituto Líbano, 2026)
+---
 
-💼 Trabalho com gestão de acessos, contas privilegiadas (PAM), segregação de funções (SoD), recertificação de acessos e suporte a auditorias (SOX, ISO 27001, LGPD)
+### O que eu faço
 
-🛠 Ferramentas e habilidades técnicas: Python, SQL, Power BI, Excel avançado, RPA, Active Directory / LDAP, Azure AD, AWS, GCP, Linux e Windows Server
+Trabalho com IAM há mais de 4 anos, focando em recertificação de acessos, SoD, PAM e suporte a auditorias SOX e ISO 27001. No dia a dia, meu foco é resolver problemas de governança onde o processo existe, mas a rastreabilidade não.
 
-💬 Experiência em análise de dados, automação de controles e suporte a processos de governança
+Uso repositórios para pensar em voz alta sobre problemas que o cargo nem sempre permite resolver no expediente. O objetivo central é: **como tornar uma decisão de acesso (ou de custo) rastreável desde a intenção até o efeito?**
 
-📫 Contato: gilbertocrv@hotmail.com
+---
 
-📄 LinkedIn: https://www.linkedin.com/in/gilberto-filho-4430a3184/
+### Projetos Principais
 
-💻 GitHub: https://github.com/gilbertocrv
+- **[cost-lineage-model](https://github.com/gilbertocrv/clm-focus-normalization-engine):** Normalização de billing multicloud (AWS, GCP, Azure, OCI). Identifica quanto do custo não tem um "dono" rastreável com confiança.
+- **[risk-adaptive-iam-decision-model](https://github.com/gilbertocrv/risk-adaptive-iam-decision-model):** Modelo de decisão que varia conforme o risco do contexto, não apenas o perfil do usuário.
+- **[iso27001-iam-governance](https://github.com/gilbertocrv/iso27001-iam-governance):** Governança de identidade mapeada para controles reais da ISO 27001, vinda da experiência direta com auditorias.
 
-<h3 align="left">Conecte-se comigo:</h3> <p align="left"> <a href="https://www.linkedin.com/in/gilberto-filho-4430a3184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://github.com/gilbertocrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a> </p>
+---
+
+### Formação e Certificações
+
+- **Pós-graduação:** Governança e Auditoria de TI — Instituto Líbano (2026, em andamento)
+- **Pós-graduação:** Docência do Ensino Superior (em andamento)
+- **MBA:** Segurança da Informação (em andamento)
+- **Certificações:** SC-900 · SailPoint Identity Security Leader · Fortinet FCF · OCI Foundations
+
+---
+
+### Stack
+
+Python, SQL, Power BI, Excel avançado, Active Directory, Entra ID e ambientes cloud (AWS, Azure, GCP).
+
+---
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/gilberto-filho-4430a3184/) · gilbertocrv@hotmail.com
